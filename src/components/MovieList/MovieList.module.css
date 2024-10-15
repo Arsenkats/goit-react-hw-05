@@ -1,0 +1,9 @@
+.moviesWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.movieItem {
+  text-align: center;
+}
