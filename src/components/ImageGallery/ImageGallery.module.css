@@ -1,0 +1,13 @@
+.container {
+    max-width: 1229px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 16px 0;
+}
+
+.imgList{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    justify-content: center;
+}

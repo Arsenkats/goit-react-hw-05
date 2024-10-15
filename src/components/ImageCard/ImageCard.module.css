@@ -1,0 +1,13 @@
+.cardStyle{
+    width: calc((1229px - (2 * 16px)) / 3);
+    height: 300px;
+    max-width: 100%;
+    overflow: hidden;
+    
+}
+
+.cardStyle img{
+    min-width: 100%;
+    min-height: 100%;
+    object-fit: cover;
+}
